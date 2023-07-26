@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering and development
 - 🌱 I’m currently coding python and java
 - 💞️ I’m looking to collaborate on projects and acquire more knowledge as we work together
-- 📫 How to reach me +234-814-8671-886 on whatsapp, I'm always active.
+- 📫 How to reach me www.kingsleyofoma@gmail.com
 
 <!---
 kingstechsolution/kingstechsolution is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
